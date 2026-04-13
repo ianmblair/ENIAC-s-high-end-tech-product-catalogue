@@ -1,4 +1,4 @@
-# ENIACs high end tech product catalogue review
+# ENIACs high end tech product business review
 First project of my bootcamp. A SQL and Tableau project evaluating Magist’s operational data to guide ENIAC’s Brazil expansion. Focused on product fit, delivery speed, and partner risk to support a confident, data‑led growth strategy
 Overview
 ENIAC is exploring expansion into the Brazilian market. The challenge: ENIAC has no local logistics, customer service, or supply‑chain infrastructure in Brazil, and the board expects market entry within one year.
