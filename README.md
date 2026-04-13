@@ -51,6 +51,7 @@ ENIAC-Growth-Strategy-Options/
 
 
 About the Author
+
 Ian Blair — Strategic Senior Customer Success Manager (CSM)
 Actively upskilling in Data Analytics, AI, SQL, Python, Tableau, and dbt to strengthen data‑led decision‑making in customer success and strategic growth roles.
 This project demonstrates:
