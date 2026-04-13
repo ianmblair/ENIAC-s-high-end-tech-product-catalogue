@@ -1,4 +1,4 @@
-# ENIAC-s-high-end-tech-product-catalogue
+# ENIACs high end tech product catalogue review
 A SQL and Tableau project evaluating Magist’s operational data to guide ENIAC’s Brazil expansion. Focused on product fit, delivery speed, and partner risk to support a confident, data‑led growth strategy
 Overview
 ENIAC is exploring expansion into the Brazilian market — a region with eCommerce revenue comparable to Spain and Italy and significant growth potential. The challenge: ENIAC has no local logistics, customer service, or supply‑chain infrastructure in Brazil, and the board expects market entry within one year.
